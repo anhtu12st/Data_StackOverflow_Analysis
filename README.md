@@ -14,10 +14,10 @@ To explore the developer world.
 - Data folder to contain data schema and description from stackoverflow.
 
 ### Questions
-- Developer profile
-- Technology in 2022
-- The relevant between 'DevType' and 'MainBrach'
-- Work after covid
+- Question 1: Developer profile
+- Question 2: Work after covid
+- Question 3: The relevant between 'DevType' and 'MainBrach'
+- Question 4: Technology in 2022
 
 ### Business Understanding
 This repo is going to explore the developer world in:
@@ -56,3 +56,8 @@ This repo is going to explore the developer world in:
 ### Evaluation
 The developer world have more quality developers and languages and tools.
 
+### Summary of the results
+[Software Engineer 2022 Overall](https://medium.com/@anhtu12st/software-engineer-2022-overall-4fe5d35391dd)
+
+###  Acknowledgments
+Using pandas anh plot through chart that've described many meaningful data and with Chi-Square has described the relevant between 'DevType' and 'MainBrach'
