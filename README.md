@@ -1,5 +1,18 @@
 # Software Engineer in 2022
 
+### Libraries used
+- pandas
+- numpy
+- matplotlib
+- seaborn as sns
+
+### Motivation for the project
+To explore the developer world.
+
+### The files in the repository with a small description of each
+- All code will be in <code>Analysis.ipynb</code>.
+- Data folder to contain data schema and description from stackoverflow.
+
 ### Questions
 - Developer profile
 - Technology in 2022
